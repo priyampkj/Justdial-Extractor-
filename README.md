@@ -16,3 +16,12 @@ Input search term
 
 Input No. of pages (max =50)
 
+## Screenshots
+![INIT](https://github.com/priyampkj/Justdial-Extractor-/blob/master/jd_how_to.JPG)
+
+![RESULT](https://github.com/priyampkj/Justdial-Extractor-/blob/master/jd_result.JPG)
+
+## You are responsible for the usage .
+
+## Conatct 
+[My Freelancer Profile!](https://www.freelancer.com/u/yoyopriyam)
